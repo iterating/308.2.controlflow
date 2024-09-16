@@ -65,7 +65,6 @@ plantGrowth(20, 3);
 // Action: Prune
 
 console.log(`Part 2: Thinking Bigger`)
-
 // The conservation area in which the garden is located has multiple other gardens. 
 // Using the logic you have already created, determine:
 // The amount of additional space that would be required if the scientists were to start with 100 plants, and did not prune them for 10 weeks.
